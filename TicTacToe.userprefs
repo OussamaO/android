@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="TicTacToe\TicTacToe.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.BH900Z6F1L" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="TicTacToe\MainActivity.cs" Line="1" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TicTacToe AndroidDesignerPreferredDevice="Nexus 4" AndroidDesignerPreferredTheme="Theme.Custom" />
+</Properties>
